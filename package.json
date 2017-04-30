@@ -1,0 +1,17 @@
+{
+  "name": "video-gdrive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "iconv-lite": "^0.4.16",
+    "mysql": "^2.13.0",
+    "parsers-lib": "../parsers-lib"
+  }
+}
