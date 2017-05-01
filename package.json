@@ -10,8 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/request": "0.0.42",
     "iconv-lite": "^0.4.16",
     "mysql": "^2.13.0",
-    "parsers-lib": "../parsers-lib"
+    "parsers-lib": "../parsers-lib",
+    "request": "^2.81.0"
   }
 }
